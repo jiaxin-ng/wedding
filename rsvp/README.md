@@ -26,7 +26,6 @@ pip install pywhatkit openpyxl
 
 - `send_wedding_invites.py` - main script
 - `wedding_guests.xlsx` - guest list input
-- `RSVP_test.xlsx`, `rsvp_actual.xlsx` - optional reference/test spreadsheets
 
 ## Excel Format
 
@@ -71,7 +70,7 @@ cd "/Users/ngjiaxin/Documents/github/wedding/rsvp"
 4. Run:
 
 ```bash
-python send_wedding_invites.py
+python3 send_wedding_invites.py
 ```
 
 5. Do not use the keyboard/mouse much while messages are being sent.
@@ -102,3 +101,4 @@ python send_wedding_invites.py
 - Add a dry-run mode (preview recipients without sending)
 - Add logging to CSV for sent/failed entries
 - Add duplicate phone number checks before sending
+
