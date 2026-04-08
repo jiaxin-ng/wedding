@@ -27,11 +27,11 @@ DELAY      = 10    # Seconds between each message (be gentle on WhatsApp)
 def build_message(first_name: str) -> str:
     return (
         f"Dear {first_name},\n\n"
-        "Brehmer and I are getting married, and we'd love for you to be there to celebrate with us!\n\n"
-        "📅 Date & Time: 8th August 2026, 12pm\n"
-        "📍 Venue: Parkroyal Collection at Marina Bay\n\n"
+        "xx and I are getting married, and we'd love for you to be there to celebrate with us!\n\n"
+        "📅 Date & Time: xxx \n"
+        "📍 Venue:xxx \n\n"
         "For full details including the schedule, venue info, and any questions, do check out our wedding website: "
-        "https://withjoy.com/brehmerjiaxin\n\n"
+        "xxxn\n"
         "We'd love your RSVP through the website by Friday, 8th May.\n\n"
         "Can't wait to celebrate with you! 🥂"
     )
