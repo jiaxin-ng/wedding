@@ -64,7 +64,7 @@ Increase `WAIT_TIME` if your browser/network is slow.
 3. In terminal, go to this folder:
 
 ```bash
-cd "/Users/ngjiaxin/Documents/github/wedding/rsvp"
+cd "/Users/user/Documents/github/wedding/rsvp"
 ```
 
 4. Run:
